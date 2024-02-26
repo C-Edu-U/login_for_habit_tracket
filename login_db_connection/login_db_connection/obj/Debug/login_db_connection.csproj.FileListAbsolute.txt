@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\login_db_connection\login_db_connection\bin\Debug\login_db_connection.exe.config
+C:\Users\user\source\repos\login_db_connection\login_db_connection\bin\Debug\login_db_connection.exe
+C:\Users\user\source\repos\login_db_connection\login_db_connection\bin\Debug\login_db_connection.pdb
+C:\Users\user\source\repos\login_db_connection\login_db_connection\obj\Debug\login_db_connection.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\login_db_connection\login_db_connection\obj\Debug\login_db_connection.Form1.resources
+C:\Users\user\source\repos\login_db_connection\login_db_connection\obj\Debug\login_db_connection.Properties.Resources.resources
+C:\Users\user\source\repos\login_db_connection\login_db_connection\obj\Debug\login_db_connection.csproj.GenerateResource.cache
+C:\Users\user\source\repos\login_db_connection\login_db_connection\obj\Debug\login_db_connection.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\login_db_connection\login_db_connection\obj\Debug\login_db_connection.exe
+C:\Users\user\source\repos\login_db_connection\login_db_connection\obj\Debug\login_db_connection.pdb
